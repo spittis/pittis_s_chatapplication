@@ -1,0 +1,17 @@
+{
+  "name": "pittis_s_chatapp",
+  "version": "1.0.0",
+  "description": "social media app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Soraya Pittis",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  },
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
